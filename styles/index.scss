@@ -37,8 +37,7 @@ body {
     font-weight: 700;
     text-decoration: none;
     text-transform: uppercase;
-    border-radius: 50px;
-    width: 5%;
+    width: 3.5%;
 }
 
 .icone-whatsapp-rodape{
@@ -52,11 +51,12 @@ body {
 .bt-whatsapp-site:hover {
   width: 193px;
   margin-left: -0.6%;
+  border-radius: 50px;
 }
 
 .tx-whats{
   display: none;
-  //white-space: pre;
+  white-space: pre;
 }
 
 .bt-whatsapp-site:hover .tx-whats{
